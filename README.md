@@ -1,8 +1,5 @@
 <div align="center">
 </div>
-
-## 🖥️ 产品预览
-
 <p align="center">
   <img src="docs/assets/readme_workspace_tour_20260510.gif" alt="DSA Web 工作台演示" width="720">
 </p>

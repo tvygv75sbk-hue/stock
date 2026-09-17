@@ -219,13 +219,14 @@ python main.py --webui-only
 - 支持多轮追问、会话导出、发送到通知渠道和后台执行
 - 支持自定义策略文件与多 Agent 编排（实验性）
 
-本项目属于二次复现，原仓库https://github.com/tvygv75sbk-hue/daily_stock_analysis.git
+
 
 > Agent 具体参数、`skill` 命名兼容、多 Agent 模式和预算护栏见 [完整指南](docs/full-guide.md#本地-webui-管理界面) 与 [LLM 配置指南](docs/LLM_CONFIG_GUIDE.md)。
 
 
 ## ⚠️ 免责声明
 
+本项目属于二次复现，原仓库：https://github.com/tvygv75sbk-hue/daily_stock_analysis.git
 本项目仅供学习和研究使用，不构成任何投资建议。股市有风险，投资需谨慎。作者不对使用本项目产生的任何损失负责。
 
 ---
